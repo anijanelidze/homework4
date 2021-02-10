@@ -1,0 +1,20 @@
+@font-face {
+    font-family: 'ALK Tall Mtavruli';
+    src: url('../fonts/alk-tall-mtavruli-webfont.eot'); /* IE9 Compat Modes */
+    src: url('../fonts/alk-tall-mtavruli-webfont.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+         url('../fonts/alk-tall-mtavruli-webfont.woff2') format('woff2'), /* Super Modern Browsers */
+         url('../fonts/alk-tall-mtavruli-webfont.woff') format('woff'), /* Pretty Modern Browsers */
+         url('../fonts/alk-tall-mtavruli-webfont.ttf') format('truetype'), /* Safari, Android, iOS */
+         url('../fonts/alk-tall-mtavruli-webfont.svg#alk_tall_mtavruliregular') format('svg'); /* Legacy iOS */
+}
+
+@font-face {
+    font-family: 'Stalinist One';
+    src: url('../fonts/StalinistOne-Regular.eot');
+    src: url('../fonts/StalinistOne-Regular.eot?#iefix') format('embedded-opentype'),
+        url('../fonts/StalinistOne-Regular.woff2') format('woff2'),
+        url('../fonts/StalinistOne-Regular.woff') format('woff'),
+        url('../fonts/StalinistOne-Regular.ttf') format('truetype'),
+        url('../fonts/StalinistOne-Regular.svg#StalinistOne-Regular') format('svg');
+    
+}

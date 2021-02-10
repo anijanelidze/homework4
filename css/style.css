@@ -1,0 +1,213 @@
+
+.logo {
+
+	display: inline-block;
+	vertical-align: middle;
+	margin-left: 31px;
+	margin-right: 40px;
+	margin-top: 30px;
+}
+
+.nav-a {
+	display: inline-block;
+	vertical-align: middle;
+	margin-top: 30px;
+	font-family: "BPG Mikheil Stefane", sans-serif;
+}
+
+.nav-li {
+	display: inline-block;
+	margin-left: 22px;
+	font-size: 22px;
+}
+
+.main {
+	color: #EE4036;
+}
+
+.news {
+	color: #3D58A6;
+}
+
+.contact {
+	color: #3D58A6;
+}
+a {
+	text-decoration: none;
+}
+
+.banner {
+	margin-left: 98px;
+	margin-top: 82px;
+	margin-right: 98px;
+}
+
+.title {
+	margin-left: 98px;
+	margin-top: 119px;
+	margin-bottom: 31px;
+	font-size: 24px;
+}
+
+.block1 {
+	display: inline-block;
+	width: 570px;
+	margin-left: 98px;
+	padding-top: 13px;
+	background-color: #F2F2F2;
+}
+.block2 {
+	display: inline-block;
+	width: 570px;
+	margin-left: 29px;
+	padding-top: 13px;
+	background-color: #F2F2F2;
+}
+.img-block {
+	display: inline-block;
+	vertical-align: middle;
+	margin-right: 60px;
+	padding-top: 15px;
+	padding-left: 35px;
+	padding-bottom: 37px;
+}
+
+.text-block {
+	display: inline-block;
+	width: 355px;
+	vertical-align: middle;
+	font-size: 20px;
+}
+.title2 {
+	padding-left: 19px;
+	color: #3D58A6;
+	font-size: 22px;
+}
+
+.divider {
+	display: inline-block;
+	width: 2px;
+	height: 27px;
+	background-color: #363E97;
+	margin-left: 35px;
+	margin-right: 30px;
+}
+.facebook {
+	margin-left: 108px;
+	margin-top: 68px;
+}
+
+/*news*/
+
+.main1 {
+	color: #3D58A6;
+}
+.contact1 {
+	color: #3D58A6;
+}
+.news1 {
+	color: #EE4036
+}
+.date {
+	width: 56px;
+	height: 56px;
+	background-color: #3D58A6;
+	font-size: 48px;
+	color: #FFFFFF;
+	padding-top: 10px;
+	padding-left: 10px;
+	padding-bottom: 3px;
+	padding-right: 2px;
+	margin-top: 44px;
+margin-left: 31px;
+
+* {
+	box-sizing: border-box;
+}
+
+}
+.title3 {
+	color: #3D58A6;
+	font-size: 22px;
+	margin-left: 31px;
+	margin-top: 2px;
+	font-family: "ALK Tall Mtavruli", sans-serif;
+}
+.title4 {
+	font-size: 22px;
+	margin-left: 31px;
+	margin-top: 33px;
+	margin-bottom: 14px;
+}
+.img-div1 {
+	display: inline-block;
+	width: 270px;
+	vertical-align: top;
+	margin-left: 31px;
+	margin-right: 50px;
+}
+.text {
+	display: inline-block;
+	width: 922px;
+	vertical-align: top;
+}
+.div1-text1 {
+	font-size: 16px;
+	margin-bottom: 26px;
+	font-family: 'Stalinist One', cursive;
+}
+.div1-text2 {
+	font-size: 16px;
+	margin-bottom: 26px;
+}
+.div1-text3 {
+	font-size: 16px;
+}
+
+/*contactinfo*/
+
+.contact2 {
+	color: #EE4036;
+}
+.contact-info {
+	color: #808080;
+	font-size: 16;
+	font-family: 'Jomhuria', cursive;
+}
+.info {
+	color: #3D58A6;
+	font-size: 20px;
+	margin-bottom:4px;
+}
+
+
+.info-1 {
+	display: inline-block;
+	width: 261px;
+	vertical-align: top ;
+	margin-left: 100px;
+	margin-top: 80px;
+	margin-right: 66px;
+	
+	height: 93px;
+}
+
+.info-2 {
+	display: inline-block;
+	padding-top: 49px;
+width: 874px;
+height: 466px;
+	padding-bottom: 55px;
+	padding-right: 90px;
+}
+
+.last { 
+
+background-color:#E6E6E6; 
+}
+
+
+
+.sp1 {
+	color: black; 
+}
